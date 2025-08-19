@@ -24,36 +24,6 @@
 
 ---
 
-## 🔧 Installation
-
-```bash
-# Clonez le repo
-git clone https://github.com/Hakim7777/Hakim-Katalon-Automation.git
-cd Hakim-Katalon-Automation
-
-# Ouvrir le projet avec Katalon Studio
-# Importer les dépendances si nécessaire
-```
-
----
-
-## ▶️ Exécution des tests
-
-```bash
-# Lancer tous les tests via Katalon Studio (UI)
-Run → Test Suite Collection
-
-# Lancer un test spécifique
-Run → Test Case → choisir le test
-
-# Exécution en CLI (avec Runtime Engine)
-katalonc -projectPath="/path/to/project" -retry=0 -testSuitePath="Test Suites/LoginSuite" -executionProfile="default" -browserType="Chrome"
-
-# Générer rapport JUnit, HTML, CSV, PDF…
-```
-
----
-
 ## 📂 Structure du projet
 
 ```
@@ -114,17 +84,6 @@ katalonc -projectPath="/path/to/project" -retry=0 -testSuitePath="Test Suites/Lo
   * Archivage screenshots & logs
 
 ---
-
-## 🤝 Contribuer
-
-1. Forkez le repo
-2. Créez une branche (`git checkout -b feature/ma-feature`)
-3. Commit (`git commit -m "Ajout nouvelle feature"`)
-4. Push (`git push origin feature/ma-feature`)
-5. Créez une **Pull Request**
-
----
-
 ## 📄 Licence
 
 Projet sous licence MIT.
