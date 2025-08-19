@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RTC_003_Book An appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62754b08-4b31-4ad7-ba18-eb2868f5ddf3</testCaseGuid>
+</TestCaseEntity>

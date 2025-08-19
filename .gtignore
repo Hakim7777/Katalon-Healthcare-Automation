@@ -1,0 +1,21 @@
+# Katalon cache & IDE
+.katalon/
+.settings/
+.metadata/
+bin/
+build/
+Reports/
+Libs/
+
+# Logs & temp
+*.log
+*.tmp
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE externes
+.idea/
+*.iml
